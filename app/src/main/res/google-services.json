@@ -1,0 +1,55 @@
+//{
+//  "project_info": {
+//    "project_number": "136572301884",
+//    "firebase_url": "https://mydemonotificationapp.firebaseio.com",
+//    "project_id": "mydemonotificationapp",
+//    "storage_bucket": "mydemonotificationapp.appspot.com"
+//  },
+//  "client": [
+//    {
+//      "client_info": {
+//        "mobilesdk_app_id": "1:136572301884:android:e7df2e28383f96d3",
+//        "android_client_info": {
+//          "package_name": "com.example.arushi_jain.myapplication"
+//        }
+//      },
+//      "oauth_client": [
+//        {
+//          "client_id": "136572301884-8tl26vna0m3u87192q7q7nbltgv1b9th.apps.googleusercontent.com",
+//          "client_type": 1,
+//          "android_info": {
+//            "package_name": "com.example.arushi_jain.myapplication",
+//            "certificate_hash": "d454a5fac725cd84c143fa8f9820c8eea1303de9"
+//          }
+//        },
+//        {
+//          "client_id": "136572301884-d2nuf9dbtctqb9668tab9rdmop497c1r.apps.googleusercontent.com",
+//          "client_type": 3
+//        }
+//      ],
+//      "api_key": [
+//        {
+//          "current_key": "AIzaSyBqwSO2rc5p38sOjXyAip91kWWtF1pKYNc"
+//        }
+//      ],
+//      "services": {
+//        "analytics_service": {
+//          "status": 1
+//        },
+//        "appinvite_service": {
+//          "status": 2,
+//          "other_platform_oauth_client": [
+//            {
+//              "client_id": "136572301884-d2nuf9dbtctqb9668tab9rdmop497c1r.apps.googleusercontent.com",
+//              "client_type": 3
+//            }
+//          ]
+//        },
+//        "ads_service": {
+//          "status": 2
+//        }
+//      }
+//    }
+//  ],
+//  "configuration_version": "1"
+//}
